@@ -64,8 +64,8 @@
 
 اگر سوال، نظر یا پیشنهادی دارید، با ما در ارتباط باشید:  
 - **ایمیل**:
-mahdi.razavifar@gmail.com
-reza.seyyednezhad.ac@gmail.com
+- **mahdi.razavifar@gmail.com**
+- **reza.seyyednezhad.ac@gmail.com**
 
 ---
 
